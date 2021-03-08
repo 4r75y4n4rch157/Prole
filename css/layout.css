@@ -1,0 +1,49 @@
+body
+{
+    margin-top: 5%;
+	font-size: 80%;
+}
+
+.row
+{
+    height: 25%;
+}
+.col
+{
+    width: 15%;
+}
+
+header
+{
+    margin-top: 5%;
+	font-size: 80%;
+}
+
+footer
+{
+	margin-top: 5%;
+}
+
+.footer-logo
+{
+    position: center;
+    padding: 0%;
+    height: 30%;
+
+}
+
+.footer-list
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 80%;
+    padding-right: 27%;
+}
+
+ul li{
+    display: inline;
+  }
+
+
+h2, h3, h4, h5, h6
+{
+}
